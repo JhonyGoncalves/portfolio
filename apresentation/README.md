@@ -5,7 +5,6 @@
 * HTML
 * CSS
 
-# Project From:
 ### Jhony Gonçalves
 
 ### Linkedin: https://www.linkedin.com/in/jhony-gon%C3%A7alves-1a07812b4/
