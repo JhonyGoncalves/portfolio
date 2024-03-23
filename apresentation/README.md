@@ -6,6 +6,6 @@
 * CSS
 
 # Project From:
-### Joana Santos
+### Jhony Gonçalves
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/jhony-gon%C3%A7alves-1a07812b4/
